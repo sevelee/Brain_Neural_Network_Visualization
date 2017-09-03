@@ -1,0 +1,8 @@
+# ignore meta files of unity 
+*.meta
+
+# ignore Temp/
+Temp/
+
+# ignore hololens(UWP) build
+build/

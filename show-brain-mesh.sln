@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "show-brain-mesh", "show-brain-mesh.csproj", "{BAC61D91-8196-7A48-78A0-145AB475A8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "show-brain-mesh.Editor", "show-brain-mesh.Editor.csproj", "{0400C9B0-6D27-6795-E12C-16268DEB078D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC61D91-8196-7A48-78A0-145AB475A8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC61D91-8196-7A48-78A0-145AB475A8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC61D91-8196-7A48-78A0-145AB475A8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC61D91-8196-7A48-78A0-145AB475A8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0400C9B0-6D27-6795-E12C-16268DEB078D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0400C9B0-6D27-6795-E12C-16268DEB078D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0400C9B0-6D27-6795-E12C-16268DEB078D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0400C9B0-6D27-6795-E12C-16268DEB078D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
